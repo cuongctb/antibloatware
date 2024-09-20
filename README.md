@@ -10,9 +10,6 @@ Follow these steps
 
 # one your computer:
 1. install adb and fastboot driver
-
 2. download remove bloatware 4.0 .zip and decompress 
-
 3. click file "remove_bloatware.cmd" : remove bloatware
-
 4. click file "reboot to recovery.cmd" :reboot to recovery 
